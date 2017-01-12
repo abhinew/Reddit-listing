@@ -1,0 +1,5 @@
+.vote-section, .thumbnail, .post-details {
+	float: left;
+	width: 50px;
+}
+
