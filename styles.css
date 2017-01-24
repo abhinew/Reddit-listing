@@ -1,5 +1,18 @@
 .vote-section, .thumbnail, .post-details {
 	float: left;
-	width: 50px;
+	
+}
+.post-details {
+	margin-left: 10px;
+}
+
+.btn-default {
+	border-color: #fff;
+}
+.item:after {
+	display: block;
+	content: '';
+	clear: both;
+
 }
 
